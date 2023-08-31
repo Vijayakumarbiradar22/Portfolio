@@ -668,8 +668,6 @@ section {
 
 
 
-
-
 @keyframes slideRight {
     0% {
         transform: translateX(-100px);
@@ -716,25 +714,3 @@ section {
 
     }
 }
-
-/* mycode for project ssection */
-.project-row {
-    display: flex;
-  }
-  .project-col {
-    display: flex;
-    width: 50%;
-  }
-  
-  .project-section {
-    max-width: 100vw;
-  }
-  .project-col h6,
-  p {
-    font-size: 20px;
-  }
-  .project-img {
-    margin: 10px;
-  }
-  
-  
