@@ -48,6 +48,7 @@ body {
 }
 .navbar a:hover {
     color: #0ef;
+    background-color: #fff;
 }
 .home {
     position: relative;
