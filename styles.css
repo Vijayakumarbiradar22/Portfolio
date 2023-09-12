@@ -115,7 +115,7 @@ body {
 }
 .home-sci a:hover {
     background: #0ef;
-    color: #f843dd;
+    color: #290829;
     box-shadow: 0 0 20px #0ef;
 }
 .btn-box {
@@ -609,7 +609,7 @@ section {
     height: 40px;
     background: transparent;
     border: 2px solid #0ef;
-    border-radius: 50%;
+    border-radius: 80%;
     font-size: 20px;
     color: #0ef;
     text-decoration: none;
