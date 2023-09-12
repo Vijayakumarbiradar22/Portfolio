@@ -153,9 +153,9 @@ body {
     padding-left: 10%;
     max-width: 430px;
     max-height: 430px;
-    /* height: 100%;
-    width: 100%; */
-    border-radius: 8px
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
 }
 .about-img:hover{
     box-shadow:0 0 5px cyan,
@@ -163,7 +163,7 @@ body {
     0 0 100px cyan,0 0 200px cyan
 } 
 .about-text h2 {
-    font-size: 60px;
+    font-size: 50px;
 }
 .about-text h2 span {
     color: #0ef;
